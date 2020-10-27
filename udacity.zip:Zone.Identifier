@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://review.udacity.com/
+HostUrl=https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_submissions/zipfile/2528365/udacity.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAI3FOFFKBQV3ZW7GQ%2F20201005%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201005T223225Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=d4606de63f7de22e49bf44f2a4b80fb4e057c1061c595a94fcfbccabd652416c
